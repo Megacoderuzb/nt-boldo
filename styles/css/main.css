@@ -27,7 +27,7 @@ section#community {
   height: 100%;
   width: 100%;
 }
-section#community [alt=worker1] {
+section#community [alt="worker1"] {
   height: 18rem;
 }
 section#community .worker3 img {
@@ -161,6 +161,7 @@ section#value .value-txt p {
 section#value .values img {
   width: 150px;
   height: 150px;
+}
 ul {
   list-style: none;
 }
@@ -319,4 +320,4 @@ header {
   .section12 {
     gap: 2rem;
   }
-}/*# sourceMappingURL=main.css.map */
+} /*# sourceMappingURL=main.css.map */
