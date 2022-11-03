@@ -186,13 +186,6 @@ section#community {
   height: 100%;
   width: 100%;
 }
-section#community [alt=worker1] {
-  height: 18rem;
-}
-section#community .worker3 img {
-  max-width: 18rem;
-  height: 36rem;
-}
 
 section#story .story {
   margin: 1rem auto;
